@@ -27,7 +27,7 @@ Clone the repository and install dependencies:
 
 git clone https://github.com/coding-mrinal/news_app.git
 
-cd newshub
+cd news_app
 
 npm install
 
